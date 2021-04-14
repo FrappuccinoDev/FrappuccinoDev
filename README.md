@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/FrappuccinoDev/FrappuccinoDev/raw/main/Mascot_konqi-app-dev-katie.png"></p>
 
-<h1 align="center">Hi there 👋</p>
+<h1 align="center">Hi there 👋</h1>
 
 I'm Luna, it is nice to meet you! 😺
 
