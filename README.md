@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-I'm Luna, it is nice to meet you! 😺
+I'm Frappuccino (*a.k.a.* Luna). It is nice to meet you! 😺
 
 - 🔭 I’m currently working on *OpenOnigiri*. (I will open it's repository once the first version is finished.)
 - 🌱 I’m currently learning *reverse engineering*.
