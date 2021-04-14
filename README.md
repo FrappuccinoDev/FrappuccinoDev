@@ -9,3 +9,7 @@ I'm Luna, it is nice to meet you! 😺
 - 📫 How to reach me: send me a message on Discord, `Luna/Moony#4258`.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to discover how things work.
+
+---
+
+Artwork by Tyson Tan, CC BY-SA.
