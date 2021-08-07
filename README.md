@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-I'm Frappuccino (*a.k.a.* Luna). It is nice to meet you! 😺
+I'm Fox (*a.k.a.* Luna). It is nice to meet you! 😺
 
 - 🔭 I’m currently working on *OpenOnigiri*. (I will open it's repository once the first version is finished.)
 - 🌱 I’m currently learning *reverse engineering*.
-- 📫 How to reach me: send me a message on Discord, `MalwareFox#5424`.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to discover how things work.
 
